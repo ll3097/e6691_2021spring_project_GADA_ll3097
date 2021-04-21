@@ -26,7 +26,8 @@ Python libraries needed:
 * matplotlib
 
 ## Executing program
-Please run jupyter notebook:"Sign_Language_MNIST_Competition_Lechen.ipynb"
+1. Please run jupyter notebook:"8dof_force@1&8_GAE.ipynb" for GAE establishment (pre-training over simulated 8DOF system).
+2. Please run jupyter notebook:"Transfer_GAE_Z24.ipnb" for transfer learning of fine-tuning over Z24 bridge dataset.
 
 
 ## Additional information
