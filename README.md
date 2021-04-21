@@ -12,6 +12,10 @@
 
 ![GitHub Logo](./GAE.png)
 
+## Algorithm Overview
+
+![GitHub Logo](./algorithm_gae.png)
+
 ## Dependencies
 Python libraries needed:
 * numpy
