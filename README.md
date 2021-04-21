@@ -6,15 +6,15 @@
 
 2. The real-bridge dataset is from a case study of Z24 bridge, where the acceleration recordings of 4 sensors (namely termed as Sensor 1, 2, 4, and 5) are considered in this study, which provides a training-set III (fine-turning) that includes two undamaged scenarios with 200 realizations of each, and a testing-set II that includes the two undamaged scenarios with 90 realizations of each, and two damaged scenarios with 128 realizations of each.
 
-![GitHub Logo](./Z24data.png)
+![GitHub Logo](/Z24data.png)
 
 ## Generalized Autoencoder Architecture
 
-![GitHub Logo](./GAE.png)
+![GitHub Logo](/GAE.png)
 
 ## Algorithm Overview
 
-![GitHub Logo](./algorithm_gae.png)
+![GitHub Logo](/algorithm_gae.png)
 
 ## Dependencies
 Python libraries needed:
