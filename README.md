@@ -8,6 +8,9 @@
 
 ![GitHub Logo](./Z24data.png)
 
+## Generalized Autoencoder Architecture
+
+![GitHub Logo](./GAE.png)
 
 ## Dependencies
 Python libraries needed:
