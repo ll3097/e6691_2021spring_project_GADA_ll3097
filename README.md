@@ -31,4 +31,4 @@ Python libraries needed:
 
 
 ## Additional information
- 
+All the methodology details and numerical results have been illustrated and summarized by the report in the current directory: "GADA_report_Lechen.pdf" 
