@@ -1,4 +1,4 @@
-# E6691 Advanced Deep Learning Project - A Generalized Autoencoder for structural damage assessment - Spring 2021
+#  A Generalized Autoencoder for structural damage assessment - Spring 2021
 ## Data Description
 1. For the simulated 8 DOF system, its undamaged condition is characterized by horizontal springs of stiffness ki = 25,000 N/m (i = 1, ..., 8), and each mass is equal to mi = 1 kg (i = 1, ..., 8). The frame is supposed to have modal damping with a damping factor of  = 1% for each of the 8 vibration modes. Total 5 different structural conditions are considered in the analysis including 1 undamaged scenario and 4 different damaged scenarios.
 
